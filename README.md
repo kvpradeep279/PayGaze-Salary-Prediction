@@ -98,4 +98,5 @@ streamlit run app/salary_app.py
 ## 🙋‍♂️ Author
 
 - Name: Kolla Venkata Pradeep
-- College Project | July 2025
+- Project | July 2025
+- For more information related to the project please refer the ppt.
