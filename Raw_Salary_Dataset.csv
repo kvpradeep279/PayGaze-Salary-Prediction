@@ -1,0 +1,393 @@
+Age,Gender,Education Level,Job Title,Years of Experience,Salary,Race,Date_of_Birth,Marital_Status
+32.0,Male,Bachelor's,Software Engineer,5.0,90000.0,Black,1973-01-05,Widowed
+28.0,Female,Master's,Data Analyst,3.0,65000.0,Hispanic,1974-09-20,Single
+45.0,Male,PhD,Senior Manager,15.0,150000.0,Asian,1981-12-22,Divorced
+36.0,Female,Bachelor's,Sales Associate,7.0,60000.0,Other,1989-02-20,Married
+52.0,Male,Master's,Director,20.0,200000.0,Hispanic,2000-04-11,Widowed
+29.0,Male,Bachelor's,Marketing Analyst,2.0,55000.0,Other,1976-04-21,Single
+42.0,Female,Master's,Product Manager,12.0,120000.0,Hispanic,1996-05-09,Widowed
+31.0,Male,Bachelor's,Sales Manager,4.0,80000.0,Black,1990-07-06,Widowed
+26.0,Female,Bachelor's,Marketing Coordinator,1.0,45000.0,Asian,1993-06-20,Widowed
+38.0,Male,PhD,Senior Scientist,10.0,110000.0,Black,1985-06-23,Widowed
+29.0,Male,Master's,Software Developer,3.0,75000.0,Asian,1979-09-14,Widowed
+48.0,Female,Bachelor's,HR Manager,18.0,140000.0,Asian,1987-09-19,Widowed
+35.0,Male,Bachelor's,Financial Analyst,6.0,65000.0,Other,1983-09-19,Single
+40.0,Female,Master's,Project Manager,14.0,130000.0,White,1976-01-23,Divorced
+27.0,Male,Bachelor's,Customer Service Rep,2.0,40000.0,Hispanic,1998-09-03,Married
+44.0,Male,Bachelor's,Operations Manager,16.0,125000.0,Hispanic,1995-09-11,Widowed
+33.0,Female,Master's,Marketing Manager,7.0,90000.0,White,1990-06-27,Married
+39.0,Male,PhD,Senior Engineer,12.0,115000.0,Hispanic,1987-10-30,Widowed
+25.0,Female,Bachelor's,Data Entry Clerk,0.0,35000.0,White,1990-06-04,Married
+51.0,Male,Bachelor's,Sales Director,22.0,180000.0,Black,1989-04-10,Married
+34.0,Female,Master's,Business Analyst,5.0,80000.0,Other,1983-01-22,Widowed
+47.0,Male,Master's,VP of Operations,19.0,190000.0,Asian,1990-06-26,Married
+30.0,Male,Bachelor's,IT Support,2.0,50000.0,Asian,1991-11-18,Married
+36.0,Female,Bachelor's,Recruiter,9.0,60000.0,Hispanic,1992-07-25,Divorced
+41.0,Male,Master's,Financial Manager,13.0,140000.0,Other,1993-06-05,Divorced
+28.0,Female,Bachelor's,Social Media Specialist,3.0,45000.0,Other,1987-10-19,Single
+37.0,Female,Master's,Software Manager,11.0,110000.0,Other,1992-05-26,Single
+24.0,Male,Bachelor's,Junior Developer,1.0,40000.0,White,1998-12-27,Widowed
+43.0,Female,PhD,Senior Consultant,15.0,140000.0,Hispanic,1994-01-08,Single
+33.0,Male,Master's,Product Designer,6.0,90000.0,Black,1997-02-27,Widowed
+50.0,Male,Bachelor's,CEO,25.0,250000.0,Black,1975-03-05,Divorced
+31.0,Female,Bachelor's,Accountant,4.0,55000.0,Black,1973-11-16,Single
+29.0,Male,Master's,Data Scientist,3.0,75000.0,Hispanic,1986-12-03,Widowed
+39.0,Female,Bachelor's,Marketing Specialist,10.0,65000.0,White,1983-03-07,Married
+46.0,Male,PhD,Senior Manager,20.0,170000.0,Asian,1972-12-10,Married
+27.0,Male,Bachelor's,Technical Writer,2.0,45000.0,White,1972-08-03,Single
+35.0,Female,Bachelor's,HR Generalist,7.0,60000.0,Other,1981-10-01,Widowed
+42.0,Male,Master's,Project Engineer,14.0,115000.0,Asian,1993-03-07,Widowed
+26.0,Female,Bachelor's,Customer Success Rep,1.0,40000.0,White,1983-08-04,Widowed
+49.0,Male,Bachelor's,Sales Executive,21.0,160000.0,Hispanic,2000-09-01,Widowed
+34.0,Female,Master's,UX Designer,5.0,80000.0,Hispanic,1986-11-07,Married
+48.0,Male,Master's,Operations Director,18.0,190000.0,White,1998-02-18,Widowed
+30.0,Male,Bachelor's,Network Engineer,3.0,60000.0,Black,1985-01-12,Single
+36.0,Female,Bachelor's,Administrative Assistant,8.0,45000.0,Hispanic,1973-03-28,Widowed
+41.0,Male,Master's,Strategy Consultant,13.0,130000.0,Black,2000-02-06,Single
+28.0,Female,Bachelor's,Copywriter,2.0,40000.0,Asian,1986-06-16,Divorced
+32.0,Male,Bachelor's,Account Manager,5.0,75000.0,White,1972-04-30,Married
+45.0,Female,Master's,Director of Marketing,16.0,180000.0,Black,1971-01-03,Widowed
+38.0,Male,PhD,Senior Scientist,11.0,120000.0,Other,1970-09-21,Divorced
+25.0,Male,Bachelor's,Help Desk Analyst,0.0,35000.0,Other,1972-06-18,Widowed
+51.0,Female,Bachelor's,Customer Service Manager,22.0,130000.0,White,1976-11-07,Single
+33.0,Male,Master's,Business Intelligence Analyst,7.0,85000.0,Asian,1989-03-11,Married
+40.0,Female,Bachelor's,Event Coordinator,12.0,60000.0,White,1992-04-08,Married
+47.0,Male,Master's,VP of Finance,19.0,200000.0,Asian,1987-10-18,Single
+29.0,Female,Bachelor's,Graphic Designer,3.0,50000.0,Asian,1976-12-09,Single
+36.0,Male,Bachelor's,Sales Manager,9.0,95000.0,Black,1986-09-06,Divorced
+27.0,Female,Master's,UX Researcher,2.0,65000.0,Hispanic,1972-07-31,Single
+43.0,Male,PhD,Senior Engineer,17.0,140000.0,Other,1972-09-28,Divorced
+30.0,Female,Bachelor's,Social Media Manager,4.0,55000.0,Hispanic,1975-10-10,Divorced
+35.0,Male,Master's,Product Manager,7.0,105000.0,Other,1972-04-16,Married
+51.0,Female,Master's,Director of Operations,23.0,170000.0,Black,2000-10-19,Single
+29.0,Male,Bachelor's,Marketing Analyst,3.0,50000.0,Black,1985-09-10,Divorced
+40.0,Female,Bachelor's,HR Manager,12.0,80000.0,Asian,1986-12-25,Widowed
+47.0,Male,PhD,Senior Data Scientist,21.0,180000.0,Hispanic,1980-09-28,Divorced
+26.0,Male,Bachelor's,Junior Accountant,1.0,35000.0,Black,1988-03-12,Divorced
+38.0,Female,Master's,Digital Marketing Manager,10.0,90000.0,Hispanic,1993-07-27,Widowed
+46.0,Male,Bachelor's,IT Manager,19.0,120000.0,Black,1972-10-08,Single
+31.0,Female,Bachelor's,Customer Service Representative,5.0,45000.0,Asian,1999-10-02,Widowed
+34.0,Male,Master's,Business Development Manager,8.0,90000.0,Hispanic,1976-12-19,Married
+49.0,Female,Master's,Senior Financial Analyst,18.0,150000.0,Black,1990-10-30,Married
+33.0,Male,Bachelor's,Web Developer,6.0,65000.0,Other,1971-01-28,Single
+39.0,Female,Bachelor's,Recruiter,11.0,70000.0,White,1992-12-17,Divorced
+45.0,Male,PhD,Research Director,16.0,190000.0,Hispanic,1984-03-26,Single
+28.0,Male,Bachelor's,Technical Support Specialist,2.0,40000.0,Hispanic,2000-11-21,Married
+42.0,Female,Master's,Creative Director,14.0,120000.0,Asian,1982-11-28,Married
+37.0,Male,Bachelor's,Project Manager,10.0,95000.0,Black,1971-08-15,Divorced
+50.0,Female,Bachelor's,Operations Manager,22.0,160000.0,Hispanic,1974-01-25,Single
+32.0,Male,Master's,Senior Software Engineer,6.0,100000.0,Hispanic,1996-01-14,Married
+48.0,Female,Master's,Human Resources Director,20.0,180000.0,White,1976-09-01,Single
+30.0,Female,Bachelor's,Content Marketing Manager,3.0,55000.0,White,1998-09-28,Married
+36.0,Male,Bachelor's,Technical Recruiter,8.0,70000.0,Other,1972-12-01,Divorced
+41.0,Female,Master's,Data Analyst,13.0,80000.0,Asian,1993-07-15,Widowed
+25.0,Male,Bachelor's,Sales Representative,0.0,30000.0,Black,1985-07-10,Married
+52.0,Male,PhD,Chief Technology Officer,24.0,250000.0,Other,1971-09-29,Married
+29.0,Female,Bachelor's,Junior Designer,2.0,40000.0,Hispanic,1978-07-05,Single
+34.0,Female,Master's,Financial Advisor,10.0,95000.0,Black,1979-02-23,Married
+27.0,Male,Bachelor's,Junior Account Manager,2.0,45000.0,White,1988-04-20,Divorced
+40.0,Female,Bachelor's,HR Generalist,15.0,80000.0,Hispanic,1985-07-21,Divorced
+46.0,Male,Master's,Senior Project Manager,21.0,135000.0,Hispanic,1994-07-05,Married
+31.0,Female,Bachelor's,Marketing Coordinator,6.0,55000.0,Asian,1992-10-05,Widowed
+36.0,Male,PhD,Principal Scientist,11.0,120000.0,Hispanic,1993-12-29,Widowed
+29.0,Female,Bachelor's,Sales Associate,3.0,40000.0,Other,1975-07-24,Single
+43.0,Male,Bachelor's,Supply Chain Manager,18.0,105000.0,White,1984-05-22,Divorced
+52.0,Female,Master's,Senior Marketing Manager,25.0,170000.0,White,1981-01-31,Single
+33.0,Male,Bachelor's,Business Analyst,7.0,75000.0,Asian,1975-01-04,Single
+39.0,Female,Bachelor's,Training Specialist,12.0,65000.0,White,1986-03-07,Widowed
+47.0,Male,PhD,Research Scientist,22.0,160000.0,Other,1976-05-18,Widowed
+26.0,Male,Bachelor's,Junior Software Developer,1.0,35000.0,Other,1976-04-26,Widowed
+38.0,Female,Master's,Public Relations Manager,10.0,90000.0,Black,1987-05-24,Single
+45.0,Male,Bachelor's,Operations Analyst,20.0,110000.0,White,1985-04-02,Single
+31.0,Female,Bachelor's,Event Coordinator,5.0,45000.0,White,1975-10-09,Single
+35.0,Male,Master's,Product Marketing Manager,8.0,95000.0,Other,1987-04-25,Married
+49.0,Female,Master's,Senior HR Manager,19.0,150000.0,Asian,1988-08-08,Divorced
+33.0,Male,Bachelor's,Junior Web Developer,5.0,50000.0,Black,1971-03-01,Married
+39.0,Female,Master's,Senior Project Coordinator,13.0,80000.0,White,1984-05-20,Married
+44.0,Male,PhD,Chief Data Officer,16.0,220000.0,Black,1974-03-09,Widowed
+30.0,Female,Bachelor's,Digital Content Producer,3.0,50000.0,White,2000-12-13,Single
+36.0,Male,Bachelor's,IT Support Specialist,7.0,60000.0,Hispanic,1972-01-19,Widowed
+41.0,Female,Master's,Senior Marketing Analyst,14.0,100000.0,Other,1978-05-14,Divorced
+28.0,Male,Bachelor's,Customer Success Manager,2.0,40000.0,Other,1981-11-30,Divorced
+42.0,Female,Master's,Senior Graphic Designer,15.0,110000.0,Asian,1999-07-08,Married
+37.0,Male,Bachelor's,Software Project Manager,9.0,95000.0,Asian,1980-12-29,Divorced
+50.0,Female,Bachelor's,Supply Chain Analyst,22.0,130000.0,Asian,1986-01-26,Divorced
+32.0,Male,Master's,Senior Business Analyst,6.0,90000.0,Hispanic,1997-12-01,Widowed
+23.0,Female,Bachelor's,Junior Marketing Analyst,0.5,35000.0,Other,1975-02-22,Widowed
+31.0,Male,Master's,Senior Financial Analyst,6.0,95000.0,Other,1978-01-29,Married
+40.0,Female,Bachelor's,Office Manager,15.0,65000.0,White,1989-04-28,Married
+48.0,Male,PhD,Principal Engineer,20.0,170000.0,Asian,1988-09-20,Widowed
+29.0,Female,Bachelor's,Junior HR Generalist,3.0,45000.0,Asian,1997-01-26,Single
+35.0,Male,Master's,Senior Product Manager,10.0,120000.0,White,1985-07-03,Single
+42.0,Female,Bachelor's,Sales Manager,17.0,100000.0,Hispanic,1992-11-16,Single
+53.0,Male,Master's,Director of Marketing,25.0,180000.0,Black,1983-11-09,Married
+33.0,Female,Bachelor's,Junior Operations Analyst,5.0,50000.0,Black,1984-07-03,Married
+38.0,Male,Bachelor's,Customer Service Manager,11.0,80000.0,Black,1977-02-27,Widowed
+44.0,Female,PhD,Senior Scientist,16.0,140000.0,Hispanic,1998-10-10,Divorced
+26.0,Male,Bachelor's,Junior Accountant,2.0,40000.0,Hispanic,1997-03-17,Divorced
+37.0,Female,Master's,Senior HR Generalist,9.0,95000.0,White,1970-05-28,Married
+45.0,Male,Bachelor's,Sales Operations Manager,18.0,110000.0,Asian,2000-08-26,Married
+32.0,Female,Bachelor's,Marketing Coordinator,4.0,50000.0,Black,1993-07-10,Divorced
+34.0,Male,Master's,Senior Software Developer,8.0,105000.0,Hispanic,1972-02-02,Single
+50.0,Female,Master's,Director of Operations,21.0,160000.0,Asian,1991-08-30,Married
+29.0,Male,Bachelor's,Junior Web Designer,3.0,45000.0,Hispanic,1988-05-22,Divorced
+40.0,Female,Master's,Senior Training Specialist,12.0,100000.0,Black,1994-04-20,Married
+47.0,Male,PhD,Senior Research Scientist,22.0,160000.0,White,1992-05-05,Single
+27.0,Male,Bachelor's,Junior Sales Representative,1.0,35000.0,Other,1982-07-31,Single
+39.0,Female,Bachelor's,Administrative Assistant,10.0,55000.0,Black,1981-11-21,Divorced
+46.0,Male,Master's,Senior Project Manager,19.0,140000.0,Black,1970-11-26,Married
+30.0,Female,Bachelor's,Junior Marketing Manager,4.0,50000.0,Other,1995-11-11,Widowed
+36.0,Male,Bachelor's,Junior Data Analyst,7.0,60000.0,White,1998-01-21,Single
+43.0,Female,Master's,Senior Product Marketing Manager,14.0,120000.0,Black,1982-10-20,Single
+28.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,Hispanic,1973-07-25,Married
+41.0,Female,Master's,Senior Marketing Manager,13.0,110000.0,White,1976-09-18,Single
+33.0,Male,Bachelor's,Junior Software Developer,5.0,50000.0,Black,1991-10-21,Married
+47.0,Male,Bachelor's,Senior Sales Manager,20.0,135000.0,Asian,1989-07-03,Divorced
+25.0,Female,Master's,Junior Marketing Specialist,1.5,40000.0,Other,1973-11-14,Single
+34.0,Male,Bachelor's,Senior Business Analyst,8.0,90000.0,Asian,1992-07-16,Married
+42.0,Female,PhD,Senior Data Scientist,16.0,150000.0,Asian,1993-06-16,Widowed
+31.0,Male,Bachelor's,Junior Project Manager,4.0,60000.0,Hispanic,1979-09-30,Married
+38.0,Female,Bachelor's,Senior Accountant,10.0,80000.0,Black,1983-06-16,Widowed
+45.0,Male,Master's,Director of Sales,19.0,175000.0,Other,1979-12-01,Single
+29.0,Female,Bachelor's,Junior Recruiter,3.0,45000.0,Other,1994-02-25,Divorced
+36.0,Male,Master's,Senior Business Development Manager,11.0,120000.0,Black,1974-12-24,Divorced
+43.0,Female,PhD,Senior Product Designer,18.0,140000.0,Other,1973-05-23,Single
+26.0,Male,Bachelor's,Junior Customer Support Specialist,2.0,35000.0,Other,1980-07-08,Married
+37.0,Female,Master's,Senior Marketing Analyst,9.0,95000.0,Hispanic,1990-05-04,Divorced
+44.0,Male,Bachelor's,Senior IT Support Specialist,14.0,110000.0,White,1991-01-17,Divorced
+32.0,Female,Bachelor's,Junior Financial Analyst,5.0,50000.0,Hispanic,1982-02-25,Divorced
+33.0,Male,Master's,Senior Operations Manager,7.0,115000.0,Other,1983-01-28,Married
+51.0,Female,PhD,Director of Human Resources,23.0,185000.0,Other,1986-03-12,Single
+28.0,Male,Bachelor's,Junior Software Engineer,2.0,40000.0,Other,1976-12-19,Married
+39.0,Female,Bachelor's,Senior Sales Representative,12.0,90000.0,Other,1992-02-07,Single
+48.0,Male,Master's,Director of Product Management,21.0,175000.0,White,1980-12-02,Divorced
+30.0,Female,Bachelor's,Junior Copywriter,3.0,45000.0,White,1997-12-08,Divorced
+35.0,Male,Bachelor's,Senior Marketing Coordinator,7.0,80000.0,White,1976-05-03,Divorced
+41.0,Female,Master's,Senior Human Resources Manager,13.0,120000.0,Black,1980-11-13,Married
+27.0,Male,Bachelor's,Junior Business Development Associate,1.5,35000.0,White,1971-03-05,Married
+40.0,Female,Bachelor's,Senior Account Manager,14.0,110000.0,Black,1975-07-16,Single
+46.0,Male,PhD,Senior Researcher,18.0,150000.0,Other,1998-10-24,Married
+31.0,Female,Bachelor's,Junior HR Coordinator,4.0,50000.0,Black,1984-11-26,Widowed
+34.0,Male,Master's,Senior Software Engineer,9.0,105000.0,Hispanic,1974-01-28,Divorced
+50.0,Female,Master's,Director of Finance,20.0,180000.0,Hispanic,1996-07-21,Widowed
+29.0,Male,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,Asian,1973-10-24,Single
+,,,,,,Asian,1983-12-14,Widowed
+43.0,Male,Bachelor's,Senior Project Manager,16.0,140000.0,Hispanic,1991-02-18,Divorced
+26.0,Female,Master's,Junior Data Scientist,1.5,45000.0,Other,1973-12-28,Widowed
+35.0,Male,Bachelor's,Senior Operations Analyst,7.0,85000.0,White,1983-03-22,Married
+42.0,Female,PhD,Senior Marketing Manager,18.0,140000.0,Black,1982-05-04,Widowed
+31.0,Male,Bachelor's,Junior Accountant,4.0,50000.0,Hispanic,1991-11-20,Single
+38.0,Female,Bachelor's,Senior Human Resources Coordinator,10.0,80000.0,Other,1980-01-12,Divorced
+46.0,Male,Master's,Director of Operations,20.0,170000.0,Black,1971-05-12,Divorced
+29.0,Female,Bachelor's,Junior Sales Representative,2.0,40000.0,Black,1983-02-14,Single
+37.0,Male,Master's,Senior Business Analyst,9.0,105000.0,Hispanic,1979-12-13,Single
+44.0,Female,PhD,Senior UX Designer,15.0,145000.0,Black,1980-03-10,Divorced
+27.0,Male,Bachelor's,Junior Product Manager,2.0,40000.0,Asian,1993-03-01,Widowed
+36.0,Female,Bachelor's,Senior Marketing Specialist,8.0,85000.0,White,1971-11-04,Divorced
+43.0,Male,Bachelor's,Senior IT Project Manager,14.0,130000.0,Hispanic,1984-06-25,Single
+33.0,Female,Master's,Senior Financial Analyst,6.0,95000.0,Black,1984-09-27,Single
+34.0,Male,Bachelor's,Senior Quality Assurance Analyst,9.0,100000.0,Hispanic,1982-07-06,Married
+50.0,Female,PhD,Director of Sales and Marketing,22.0,180000.0,Other,1970-12-30,Married
+28.0,Male,Bachelor's,Junior Operations Analyst,1.5,35000.0,Black,1995-04-30,Married
+39.0,Female,Bachelor's,Senior Account Executive,12.0,95000.0,Hispanic,1975-09-14,Divorced
+47.0,Male,Master's,Director of Business Development,19.0,170000.0,Hispanic,1992-06-11,Single
+30.0,Female,Bachelor's,Junior Social Media Manager,3.0,45000.0,White,1999-05-20,Divorced
+34.0,Male,Bachelor's,Senior Product Manager,7.0,95000.0,Hispanic,1981-06-24,Single
+40.0,Female,Master's,Senior Human Resources Specialist,13.0,120000.0,White,1988-04-03,Widowed
+28.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,Black,1975-02-20,Divorced
+41.0,Female,Bachelor's,Senior Marketing Coordinator,11.0,90000.0,White,1998-04-02,Widowed
+45.0,Male,PhD,Senior Data Analyst,17.0,155000.0,Other,1974-03-08,Married
+32.0,Female,Bachelor's,Junior Account Manager,5.0,55000.0,Hispanic,1991-08-02,Widowed
+35.0,Male,Master's,Senior Software Developer,9.0,110000.0,Hispanic,1992-12-05,Widowed
+49.0,Female,Master's,Director of Human Capital,21.0,180000.0,White,1977-10-01,Divorced
+30.0,Male,Bachelor's,Junior Advertising Coordinator,3.0,45000.0,White,1987-03-28,Widowed
+44.0,Male,Bachelor's,Senior Sales Manager,16.0,130000.0,White,1977-06-06,Widowed
+27.0,Female,Master's,Junior UX Designer,1.5,45000.0,Hispanic,1970-01-31,Divorced
+36.0,Male,Bachelor's,Senior Accountant,7.0,90000.0,Black,1975-10-11,Single
+41.0,Female,PhD,Senior Marketing Director,17.0,160000.0,Other,1977-01-31,Divorced
+31.0,Male,Bachelor's,Junior HR Generalist,4.0,50000.0,Other,1984-11-27,Widowed
+39.0,Female,Bachelor's,Senior Operations Manager,10.0,120000.0,Hispanic,1984-01-31,Widowed
+47.0,Male,Master's,Director of Finance,20.0,170000.0,Black,1987-02-01,Divorced
+30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,Hispanic,1986-10-06,Widowed
+38.0,Male,Master's,Senior IT Consultant,9.0,110000.0,Other,1996-06-11,Married
+45.0,Female,PhD,Senior Product Designer,15.0,150000.0,Black,1983-10-18,Single
+28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0,Asian,1987-05-23,Single
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Hispanic,1998-05-23,Single
+44.0,Male,Bachelor's,Senior Software Engineer,14.0,130000.0,White,1980-08-08,Divorced
+34.0,Female,Master's,Senior Financial Advisor,6.0,100000.0,Asian,1985-05-23,Divorced
+35.0,Male,Bachelor's,Senior Project Coordinator,9.0,95000.0,Black,1985-05-30,Single
+50.0,Female,PhD,Director of Operations,22.0,180000.0,Asian,1992-07-09,Widowed
+29.0,Male,Bachelor's,Junior Business Operations Analyst,1.5,35000.0,Asian,1997-10-04,Divorced
+40.0,Female,Bachelor's,Senior Sales Representative,12.0,100000.0,Other,1973-06-18,Divorced
+48.0,Male,Master's,Director of Marketing,19.0,170000.0,Other,1988-03-09,Single
+31.0,Female,Bachelor's,Junior Social Media Specialist,3.0,45000.0,Other,1998-08-27,Widowed
+33.0,Male,Bachelor's,Senior Product Development Manager,7.0,100000.0,Asian,1993-10-26,Single
+42.0,Female,Master's,Senior Human Resources Manager,13.0,140000.0,Black,1989-09-27,Divorced
+28.0,Male,Bachelor's,Junior Financial Analyst,2.0,40000.0,Asian,1990-11-26,Divorced
+40.0,Female,Bachelor's,Senior Marketing Manager,11.0,105000.0,Hispanic,1975-09-22,Divorced
+46.0,Male,PhD,Senior Data Scientist,18.0,160000.0,Black,1986-07-02,Married
+33.0,Female,Bachelor's,Junior Operations Manager,5.0,70000.0,Asian,1999-10-25,Widowed
+37.0,Male,Master's,Senior Software Architect,9.0,120000.0,Black,1980-01-18,Divorced
+51.0,Female,Master's,Director of Human Resources,21.0,190000.0,Asian,1990-01-09,Divorced
+30.0,Male,Bachelor's,Junior Marketing Specialist,3.0,45000.0,White,1993-04-04,Widowed
+43.0,Male,Bachelor's,Senior Project Manager,15.0,120000.0,Hispanic,1970-05-10,Single
+27.0,Female,Master's,Junior Research Scientist,1.5,50000.0,Asian,1983-04-22,Single
+35.0,Male,Bachelor's,Senior Operations Analyst,8.0,85000.0,Asian,1971-05-15,Single
+42.0,Female,PhD,Senior Marketing Manager,13.0,140000.0,Asian,1999-06-03,Divorced
+32.0,Male,Bachelor's,Junior Sales Representative,3.0,45000.0,White,1972-06-30,Widowed
+37.0,Female,Bachelor's,Senior Financial Analyst,9.0,100000.0,White,1975-09-03,Married
+45.0,Male,Master's,Senior Software Developer,16.0,140000.0,Asian,1970-12-10,Divorced
+33.0,Female,Bachelor's,Junior Operations Analyst,5.0,70000.0,Black,1989-04-02,Widowed
+39.0,Male,Bachelor's,Senior Marketing Specialist,10.0,120000.0,Asian,1972-02-17,Single
+44.0,Female,PhD,Senior HR Manager,18.0,160000.0,Black,1993-11-29,Divorced
+29.0,Male,Bachelor's,Junior Business Analyst,1.5,40000.0,Black,1972-04-28,Widowed
+38.0,Female,Bachelor's,Senior Product Manager,10.0,120000.0,Asian,1990-07-30,Divorced
+46.0,Male,PhD,Senior Data Analyst,19.0,150000.0,White,1998-04-01,Single
+34.0,Female,Bachelor's,Junior Marketing Analyst,6.0,70000.0,Other,1979-01-15,Single
+36.0,Male,Bachelor's,Senior Operations Manager,8.0,95000.0,Other,1993-03-24,Single
+49.0,Female,Master's,Director of Marketing,21.0,180000.0,White,1970-06-11,Widowed
+31.0,Male,Bachelor's,Junior Financial Analyst,3.0,50000.0,Black,1999-08-30,Married
+41.0,Female,Bachelor's,Senior Project Coordinator,11.0,95000.0,Other,1998-04-30,Divorced
+47.0,Male,Master's,Director of Operations,20.0,170000.0,Other,1986-03-01,Divorced
+30.0,Female,Bachelor's,Junior Marketing Coordinator,2.0,40000.0,Black,1983-10-14,Divorced
+38.0,Male,Master's,Senior IT Consultant,9.0,110000.0,Asian,1991-10-21,Married
+45.0,Female,PhD,Senior Product Designer,15.0,150000.0,Asian,1976-04-18,Divorced
+28.0,Male,Bachelor's,Junior Business Development Associate,2.0,40000.0,Other,1986-09-19,Widowed
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Other,1981-01-18,Widowed
+44.0,Male,Bachelor's,Senior Software Engineer,14.0,130000.0,White,1985-08-26,Single
+34.0,Female,Master's,Senior Financial Advisor,6.0,100000.0,Hispanic,1990-07-31,Single
+35.0,Male,Bachelor's,Senior Project Coordinator,9.0,95000.0,Black,1995-09-12,Divorced
+50.0,Female,PhD,Director of Operations,22.0,180000.0,Asian,1976-04-28,Married
+29.0,Male,Bachelor's,Junior Business Operations Analyst,1.5,350.0,White,1980-05-06,Divorced
+,,,,,,Asian,1973-01-07,Married
+37.0,Female,Bachelor's,Senior Financial Manager,10.0,120000.0,Black,1972-06-03,Widowed
+46.0,Male,PhD,Senior Data Scientist,18.0,160000.0,Hispanic,1971-01-20,Widowed
+31.0,Female,Bachelor's,Junior Marketing Coordinator,3.0,50000.0,White,1976-06-22,Widowed
+42.0,Male,Bachelor's,Senior Operations Manager,12.0,110000.0,Asian,1999-03-22,Married
+29.0,Female,Bachelor's,Junior Sales Representative,1.5,40000.0,Asian,1982-09-27,Divorced
+36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0,Asian,1990-05-28,Divorced
+44.0,Female,Master's,Senior HR Specialist,15.0,140000.0,Asian,1971-07-17,Single
+33.0,Male,Bachelor's,Junior Operations Manager,4.0,60000.0,Other,1995-01-07,Married
+39.0,Female,Bachelor's,Senior Marketing Coordinator,9.0,110000.0,Hispanic,1984-03-11,Divorced
+45.0,Male,PhD,Senior Data Engineer,16.0,150000.0,White,2000-05-20,Single
+32.0,Female,Bachelor's,Junior Marketing Manager,4.0,60000.0,Other,1972-08-12,Single
+37.0,Male,Bachelor's,Senior Financial Analyst,8.0,90000.0,Hispanic,1980-11-20,Divorced
+47.0,Female,Master's,Director of Marketing,20.0,180000.0,Black,1997-06-10,Divorced
+30.0,Male,Bachelor's,Junior Business Analyst,2.0,40000.0,Asian,1980-05-07,Single
+38.0,Female,Bachelor's,Senior Project Manager,9.0,120000.0,Other,1989-07-05,Single
+46.0,Male,PhD,Senior Data Analyst,17.0,160000.0,White,1983-10-09,Married
+34.0,Female,Bachelor's,Junior Financial Analyst,5.0,70000.0,Black,1992-05-29,Widowed
+36.0,Male,Bachelor's,Senior Product Manager,8.0,95000.0,Black,1976-11-12,Married
+49.0,Female,Master's,Director of Operations,21.0,180000.0,Black,1971-07-20,Widowed
+31.0,Male,Bachelor's,Junior Operations Analyst,3.0,50000.0,Hispanic,1992-11-26,Single
+41.0,Female,Bachelor's,Senior Project Coordinator,11.0,95000.0,Black,1990-07-09,Married
+47.0,Male,Master's,Director of Marketing,19.0,170000.0,Hispanic,1986-09-06,Divorced
+29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0,Other,1994-05-20,Widowed
+35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0,White,1996-08-27,Divorced
+44.0,Female,PhD,Senior Product Designer,15.0,150000.0,Other,1977-12-31,Widowed
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,Black,1972-04-14,Divorced
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Black,1993-02-08,Married
+44.0,Male,Bachelor's,Senior Software Engineer,13.0,130000.0,Asian,1981-08-10,Single
+32.0,Male,Bachelor's,Junior Product Manager,4.0,65000.0,Hispanic,1990-07-26,Widowed
+38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,Other,1981-04-25,Married
+49.0,Male,PhD,Director of Operations,21.0,180000.0,White,1987-06-09,Divorced
+29.0,Female,Bachelor's,Junior Marketing Specialist,2.0,40000.0,Black,1986-04-05,Widowed
+35.0,Male,Bachelor's,Senior Business Development Manager,7.0,90000.0,Black,1997-12-12,Single
+45.0,Female,Master's,Senior HR Manager,14.0,140000.0,Other,1993-06-26,Married
+33.0,Male,Bachelor's,Junior Financial Analyst,4.0,60000.0,Black,1989-09-23,Married
+40.0,Female,Bachelor's,Senior Marketing Manager,12.0,130000.0,Asian,1989-06-12,Widowed
+44.0,Male,PhD,Senior Data Scientist,16.0,160000.0,White,1981-11-28,Single
+30.0,Female,Bachelor's,Junior Operations Coordinator,2.0,40000.0,Asian,1997-08-20,Divorced
+37.0,Male,Bachelor's,Senior Marketing Analyst,9.0,100000.0,Other,1984-11-11,Divorced
+48.0,Female,Master's,Director of HR,20.0,180000.0,Hispanic,1971-01-29,Widowed
+31.0,Male,Bachelor's,Junior Project Manager,3.0,55000.0,Asian,1991-01-30,Single
+38.0,Female,Bachelor's,Senior Operations Coordinator,9.0,120000.0,Asian,1977-04-04,Divorced
+45.0,Male,PhD,Senior Data Engineer,16.0,150000.0,Asian,1977-03-11,Divorced
+33.0,Female,Bachelor's,Junior Marketing Manager,5.0,70000.0,Other,1998-06-10,Single
+36.0,Male,Bachelor's,Senior Business Analyst,8.0,95000.0,Other,1973-11-21,Married
+49.0,Female,Master's,Director of Marketing,21.0,180000.0,Black,1998-05-09,Widowed
+31.0,Male,Bachelor's,Junior Operations Analyst,3.0,50000.0,Other,1998-11-12,Single
+42.0,Female,Bachelor's,Senior Project Manager,12.0,120000.0,Other,1997-10-17,Single
+47.0,Male,Master's,Director of Marketing,19.0,170000.0,Asian,1980-12-10,Single
+29.0,Female,Bachelor's,Junior Business Development Associate,1.5,35000.0,Hispanic,1993-01-28,Married
+35.0,Male,Bachelor's,Senior Financial Manager,9.0,100000.0,Hispanic,1973-06-11,Single
+44.0,Female,PhD,Senior Product Designer,15.0,150000.0,Hispanic,1998-12-16,Widowed
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,Black,1976-12-03,Single
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Black,1974-05-27,Divorced
+44.0,Male,Bachelor's,Senior Software Engineer,13.0,130000.0,White,1978-07-28,Widowed
+34.0,Female,Master's,Senior Financial Advisor,6.0,80000.0,Black,1984-05-06,Married
+36.0,Male,Bachelor's,Senior Marketing Specialist,8.0,95000.0,Hispanic,1996-12-25,Widowed
+30.0,Female,Bachelor's,Junior HR Coordinator,2.0,40000.0,Black,1975-09-17,Divorced
+37.0,Male,Bachelor's,Senior Business Development Manager,10.0,120000.0,Asian,1970-07-03,Single
+45.0,Female,Master's,Senior Marketing Manager,16.0,160000.0,Black,1988-07-29,Divorced
+32.0,Male,Bachelor's,Junior Financial Advisor,4.0,65000.0,Other,1988-06-23,Widowed
+39.0,Female,Bachelor's,Senior Project Manager,12.0,130000.0,Asian,1980-05-19,Divorced
+47.0,Male,PhD,Director of Engineering,20.0,180000.0,White,1980-12-16,Divorced
+29.0,Female,Bachelor's,Junior Marketing Analyst,2.0,40000.0,Hispanic,1985-01-21,Widowed
+36.0,Male,Bachelor's,Senior Operations Manager,9.0,100000.0,Black,1990-04-01,Single
+43.0,Female,PhD,Senior Data Scientist,15.0,150000.0,Other,1993-07-22,Divorced
+32.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,Other,1973-01-08,Married
+38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,Other,1990-01-14,Single
+48.0,Male,Master's,Director of Marketing,21.0,180000.0,White,1988-12-21,Divorced
+31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0,Other,1974-03-06,Married
+40.0,Male,Bachelor's,Senior Financial Analyst,12.0,130000.0,Black,1991-03-20,Married
+45.0,Female,PhD,Senior UX Designer,16.0,160000.0,Asian,1978-07-17,Widowed
+33.0,Male,Bachelor's,Junior Product Manager,4.0,60000.0,White,1975-09-16,Divorced
+36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0,White,1984-12-22,Single
+47.0,Male,Master's,Director of Operations,19.0,170000.0,White,1997-01-07,Widowed
+29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,White,1995-10-31,Divorced
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,Hispanic,1984-07-04,Widowed
+44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,Black,1976-07-26,Married
+33.0,Male,Bachelor's,Junior Marketing Specialist,5.0,70000.0,Hispanic,1979-04-07,Divorced
+35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0,Other,1987-12-04,Widowed
+43.0,Male,Master's,Director of Marketing,18.0,170000.0,Asian,1971-07-08,Divorced
+31.0,Female,Bachelor's,Junior Financial Analyst,3.0,50000.0,Asian,1994-07-10,Widowed
+41.0,Male,Bachelor's,Senior Product Manager,14.0,150000.0,Asian,1995-04-28,Widowed
+44.0,Female,PhD,Senior Data Engineer,16.0,160000.0,Other,1987-08-04,Widowed
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,White,1990-11-27,Widowed
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Asian,2000-07-01,Married
+45.0,Male,Master's,Director of Engineering,19.0,180000.0,White,1984-02-05,Married
+28.0,Female,Bachelor's,Junior Operations Manager,1.0,35000.0,Asian,1973-10-14,Married
+36.0,Male,Bachelor's,Senior Business Development Manager,8.0,110000.0,Black,1977-01-06,Divorced
+44.0,Female,PhD,Senior Data Scientist,16.0,160000.0,Black,1997-08-08,Single
+31.0,Male,Bachelor's,Junior Marketing Coordinator,3.0,55000.0,Hispanic,1974-11-04,Divorced
+38.0,Female,Bachelor's,Senior Business Analyst,10.0,110000.0,Black,1990-01-14,Married
+48.0,Male,Master's,Director of Marketing,21.0,180000.0,Hispanic,1996-08-02,Divorced
+31.0,Female,Bachelor's,Junior Business Development Associate,3.0,50000.0,Other,1973-01-29,Widowed
+40.0,Male,Bachelor's,Senior Financial Analyst,12.0,130000.0,Hispanic,1998-12-12,Widowed
+45.0,Female,PhD,Senior UX Designer,16.0,160000.0,Hispanic,1986-07-02,Single
+33.0,Male,Bachelor's,Junior Product Manager,4.0,60000.0,Black,1983-10-16,Single
+36.0,Female,Bachelor's,Senior Marketing Manager,8.0,95000.0,Black,1984-09-26,Divorced
+47.0,Male,Master's,Director of Operations,19.0,170000.0,Black,1986-10-04,Widowed
+29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,White,1982-01-09,Single
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,Other,1988-11-01,Married
+44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,White,1982-08-11,Married
+33.0,Male,Bachelor's,Junior Marketing Specialist,5.0,70000.0,White,1986-02-02,Married
+35.0,Female,Bachelor's,Senior Financial Manager,8.0,90000.0,Hispanic,1985-08-29,Widowed
+43.0,Male,Master's,Director of Marketing,18.0,170000.0,Hispanic,1986-05-21,Widowed
+31.0,Female,Bachelor's,Junior Financial Analyst,3.0,50000.0,Hispanic,1973-03-15,Widowed
+41.0,Male,Bachelor's,Senior Product Manager,14.0,150000.0,Hispanic,1992-03-08,Single
+44.0,Female,PhD,Senior Data Engineer,16.0,160000.0,White,1979-10-28,Single
+33.0,Male,Bachelor's,Junior Business Analyst,4.0,60000.0,Hispanic,1972-07-31,Single
+35.0,Female,Bachelor's,Senior Marketing Analyst,8.0,85000.0,Asian,1994-12-09,Married
+43.0,Male,Master's,Director of Operations,19.0,170000.0,Other,1986-08-22,Married
+29.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,Other,1996-04-11,Married
+34.0,Male,Bachelor's,Senior Operations Coordinator,7.0,90000.0,Black,1979-02-06,Widowed
+44.0,Female,PhD,Senior Business Analyst,15.0,150000.0,White,1996-09-06,Widowed
+,,Bachelor's,Junior Project Manager,2.0,40000.0,White,1985-11-30,Divorced
+37.0,,Bachelor's,,9.0,100000.0,Hispanic,1990-06-21,Widowed
+,Female,Bachelor's,Senior Product Manager,,120000.0,Hispanic,1989-12-22,Single
+,Male,Bachelor's,,9.0,100000.0,Other,1995-04-09,Single
+,Male,Bachelor's,,3.0,45000.0,Black,1991-10-17,Married
+,Female,Bachelor's,Junior Social Media Manager,3.0,,Asian,1979-08-15,Widowed
+40.0,Female,Bachelor's,Senior Account Manager,,,Hispanic,1978-06-11,Married
+49.0,Female,Master's,Director of Operations,21.0,180000.0,Other,1984-09-12,Divorced
+43.0,Male,Bachelor's,Supply Chain Manager,18.0,105000.0,Black,1984-06-30,Divorced
+31.0,Male,Bachelor's,Junior HR Generalist,4.0,50000.0,Black,1973-12-08,Single
+27.0,Male,Bachelor's,Junior Business Development Associate,1.5,35000.0,Asian,1987-06-26,Divorced
+48.0,Male,PhD,Principal Engineer,20.0,170000.0,Black,1991-01-30,Married
+80.0,Female,Bachelor's,Junior Project Manager,2.0,40000.0,Hispanic,1987-08-01,Single
+74.0,Female,Master's,Senior Financial Advisor,6.0,100000.0,Other,1996-02-19,Widowed
+84.0,Female,Master's,Director of Human Capital,21.0,180000.0,Other,1980-11-21,Single
+65.0,Female,Bachelor's,Junior Marketing Analyst,0.5,35000.0,Asian,1971-06-01,Married
+64.0,Female,Master's,Director of Finance,20.0,180000.0,Black,1971-02-14,Married
