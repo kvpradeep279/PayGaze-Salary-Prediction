@@ -15,17 +15,17 @@ Many companies struggle to estimate fair salaries for employees based on multipl
 ```
 📁 project-root/
 │
-├── model/
-│   └── salary_predictor.pkl        # Trained XGBoost model
+|
+│──salary_predictor.pkl        # Trained XGBoost model
 │
-├── app/
-│   └── salary_app.py               # Streamlit app script
+├──  salary_app.py               # Streamlit app script
+│   
 │
-├── data/
-│   └── employee_data.csv           # Source dataset (from Kaggle)
+├── employee_data.csv           # Source dataset (from Kaggle)
+│    
 │
-├── assets/
-│   └── salary_plot.png             # Screenshot of actual vs predicted graph
+├──salary_plot.png             # Screenshot of actual vs predicted graph
+│    
 │
 └── README.md                       # Project overview
 ```
